@@ -1,0 +1,240 @@
+Uri: https://srisaiservice.info/
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\index.htm
+Content Type: text/html
+
+Uri: https://srisaiservice.info/about-us.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\about-us.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/ac-repair.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\ac-repair.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/ajax/jquery.validate/1.15.0/jquery.validate.js
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\ajax\jquery.validate\1.15.0\jquery.validate.js
+Content Type: application/javascript
+
+Uri: https://srisaiservice.info/ajax/libs/animate.css/3.5.2/animate.min.css
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\ajax\libs\animate.css\3.5.2\animate.min.css
+Content Type: text/css
+
+Uri: https://srisaiservice.info/ajax/libs/jquery/3.3.1/jquery.min.js
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\ajax\libs\jquery\3.3.1\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://srisaiservice.info/bootstrap/3.2.0/css/bootstrap.min.css
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\bootstrap\3.2.0\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://srisaiservice.info/bootstrap/3.2.0/fonts/glyphicons-halflings-regular-1.eot
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\bootstrap\3.2.0\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://srisaiservice.info/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.eot
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://srisaiservice.info/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.svg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://srisaiservice.info/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.ttf
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://srisaiservice.info/bootstrap/3.2.0/fonts/glyphicons-halflings-regular.woff
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\bootstrap\3.2.0\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://srisaiservice.info/bootstrap/3.4.0/js/bootstrap.min.js
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\bootstrap\3.4.0\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://srisaiservice.info/contact-us.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\contact-us.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/css-1?family=Poppins:400,400i,500,500i,600,600i,700,700i,800,800i,900,900i&display=swap
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\css-1
+Content Type: application/octet-stream
+
+Uri: https://srisaiservice.info/css/banner.css
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\css\banner.css
+Content Type: text/css
+
+Uri: https://srisaiservice.info/css/style.css
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\css\style.css
+Content Type: text/css
+
+Uri: https://srisaiservice.info/dishwasher-repair.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\dishwasher-repair.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\font-awesome\4.7.0\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://srisaiservice.info/font-awesome/4.7.0/fonts/fontawesome-webfont-1.eot
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\font-awesome\4.7.0\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://srisaiservice.info/font-awesome/4.7.0/fonts/fontawesome-webfont.eot
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\font-awesome\4.7.0\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://srisaiservice.info/font-awesome/4.7.0/fonts/fontawesome-webfont.svg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\font-awesome\4.7.0\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://srisaiservice.info/font-awesome/4.7.0/fonts/fontawesome-webfont.ttf
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\font-awesome\4.7.0\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://srisaiservice.info/font-awesome/4.7.0/fonts/fontawesome-webfont.woff
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\font-awesome\4.7.0\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://srisaiservice.info/font-awesome/4.7.0/fonts/fontawesome-webfont.woff2
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\font-awesome\4.7.0\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://srisaiservice.info/images/abt.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\abt.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bann/1.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bann\1.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bann/2.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bann\2.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bann/3.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bann\3.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bann/4.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bann\4.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bann/5.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bann\5.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bann/6.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bann\6.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bann/7.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bann\7.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bg-3.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/bg-cta.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\bg-cta.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/Dishwasher-Repair.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\Dishwasher-Repair.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/icon/air-conditioner.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\icon\air-conditioner.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/icon/dishwasher.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\icon\dishwasher.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/icon/enq2.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\icon\enq2.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/icon/fridge.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\icon\fridge.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/icon/microwave-oven.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\icon\microwave-oven.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/icon/television.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\icon\television.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/icon/washing-machine.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\icon\washing-machine.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/img-inner1.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\img-inner1.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/logo.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\logo.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/images/ourservicebg.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\ourservicebg.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/service-1.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/service-2.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/service-3.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/service-4.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/service-5.jpg
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\service-5.jpg
+Content Type: image/jpeg
+
+Uri: https://srisaiservice.info/images/whatsapp.png
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://srisaiservice.info/index.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\index.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/js/banner.js
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\js\banner.js
+Content Type: application/javascript
+
+Uri: https://srisaiservice.info/js/logoslide.js
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\js\logoslide.js
+Content Type: application/javascript
+
+Uri: https://srisaiservice.info/microwave-oven-repair.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\microwave-oven-repair.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/recaptcha/api.js
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\recaptcha\api.js
+Content Type: application/javascript
+
+Uri: https://srisaiservice.info/refrigerator-repair.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\refrigerator-repair.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/tv-repair.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\tv-repair.php.html
+Content Type: text/html
+
+Uri: https://srisaiservice.info/washing-machine-repair.php.html
+File Name: C:\Users\Ashok\Documents\GitHub\srisaiservice\srisaiservice.info\washing-machine-repair.php.html
+Content Type: text/html
+
